@@ -1,0 +1,86 @@
+{
+  "citations": [
+    {
+      "source": "CNBC",
+      "title": "DoorDash lets customers use photos, prompts to order food and book reservations in latest AI push",
+      "url": "https://www.cnbc.com/2026/06/11/doordash-lets-customers-use-photos-prompts-to-order-food.html"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "Google",
+      "title": "Introducing the Gemini Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "Bain & Company",
+      "title": "Online Grocery: Pricing for Both Humans and Bots",
+      "url": "https://www.bain.com/insights/online-grocery-pricing-for-both-humans-and-bots/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed = hash('Order food with AI|use_case|people who want an AI assistant to order meals, groceries, and delivery without babysitting apps|2026-07-06T18:28:51.226093+00:00') -> selection locked. AIDA Check: Attention(hero), Interest(market context + proof), Desire(workflow + cache), Action(CTA). Font Selection: Cabinet Grotesk. Hero Math Verification: clamp headline 42\u201372px, max-width 1120px ensures 2\u20133 lines. Bento Density Verification: grid-auto-flow: dense present. GSAP Motion Selection: image-scale-fade-scroll + hover-physics guarded. Label Sweep & Button Check: primary black pill CTA, secondary white CTA verified.",
+  "generated_at": "2026-07-06T18:30:01.499092+00:00",
+  "headline": "Order food with AI \u2014 a personal agent that actually places the order",
+  "site_brief": {
+    "audience": "people who want an AI assistant to order meals, groceries, and delivery without babysitting apps",
+    "canonical_url": "https://app.getsupers.com/use-cases/order-food-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Order food with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful. Add a long-form operator playbook with how-to steps, setup checklist, realistic limits, confirmation moments, and examples that a reader can act on immediately.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant order food delivery",
+      "personal AI agent order food",
+      "AI agent groceries delivery",
+      "computer use AI agent ordering food"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "order-food-with-ai",
+    "title": "Order food with AI",
+    "use_case_intent": "show how Super can coordinate food ordering across delivery apps, preferences, addresses, payment confirmation, and repeat orders"
+  },
+  "summary": "This use-case page shows how Super can act as a personal AI agent to order meals, groceries, and delivery across real apps without babysitting screens. It explains the workflow, confirmation points, safety limits, and why Super\u2019s computer-use cache makes repeated food orders faster and cheaper over time."
+}
